@@ -1,0 +1,24 @@
+# Linux (download and build)
+kernel
+
+# Download directories
+bash
+coreutils
+glibc
+nano
+ncurses
+util-linux
+
+# Build directories
+bash-build
+coreutils-build
+glibc-build
+nano-build
+ncurses-build
+util-linux-build
+
+# Build image
+gnu-linux.img
+
+# Generated root directory
+root
